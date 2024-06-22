@@ -3,7 +3,7 @@
 
 Sales analysis is the process of examining and evaluating sales data to gain insights into the performance of a company’s products or services. It involves analyzing various aspects of sales, such as trends, patterns, customer behavior, and performance metrics, to make informed business decisions. Sales analysis helps companies understand their sales performance, identify areas of strength and weakness, pinpoint opportunities for growth, and develop strategies to improve sales effectiveness.
 
-#Key Components of Sales Analysis
+# Key Components of Sales Analysis
 
 1.Sales Volume: Examining the quantity of products or services sold over a specific period.
 
